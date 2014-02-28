@@ -1,1 +1,1 @@
-sudo docker build -t joshjdevl/core43 .
+sudo docker build -t joshjdevl/core47 .
